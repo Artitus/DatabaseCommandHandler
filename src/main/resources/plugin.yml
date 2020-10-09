@@ -1,0 +1,9 @@
+main: com.masonherbel.infusedmc.databasecommandhandler.DatabaseCommandHandler
+name: DatabaseCommandHandler
+version: 1.0.0
+author: Mason Herbel
+website: https://masonherbel.com
+softdepend: [CombatTagPlus]
+commands:
+  database:
+  db:
